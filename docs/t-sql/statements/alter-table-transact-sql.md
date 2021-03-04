@@ -2087,3 +2087,4 @@ After the split, the `OrdersHistory` table has the following partitions:
 - [ALTER PARTITION SCHEME](../../t-sql/statements/alter-partition-scheme-transact-sql.md)
 - [ALTER PARTITION FUNCTION](../../t-sql/statements/alter-partition-function-transact-sql.md)
 - [EVENTDATA](../../t-sql/functions/eventdata-transact-sql.md)
+   
